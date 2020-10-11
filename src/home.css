@@ -1,0 +1,8 @@
+
+container, h5, h1, h3 {
+    margin: 1rem;
+  }
+  
+  container, h1, h3 {
+    margin: 1.5rem;
+  }
